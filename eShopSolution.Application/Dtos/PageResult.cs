@@ -4,9 +4,9 @@ using System.Text;
 
 namespace eShopSolution.Application.Dtos
 {
-    public class PageViewModel<T>
+    public class PageResult<T>
     {
-        List<T> Items { get; set; }
+        public List<T> Items { get; set; }
         public int TotalRecord { set; get; }
     }
 }
