@@ -10,3 +10,5 @@ D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CopyComplete
