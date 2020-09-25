@@ -4,7 +4,6 @@ D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csprojAssemblyReference.cache
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfoInputs.cache
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfo.cs
-D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CoreCompileInputs.cache
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.dll
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.pdb
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
@@ -12,3 +11,6 @@ D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
 D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CopyComplete
+D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\.NET core Exp\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CoreCompileInputs.cache
+D:\.NET core Exp\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
