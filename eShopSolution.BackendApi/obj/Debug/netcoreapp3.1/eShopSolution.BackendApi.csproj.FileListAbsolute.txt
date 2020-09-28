@@ -69,8 +69,6 @@ D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\
 D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csprojAssemblyReference.cache
 D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.AssemblyInfoInputs.cache
 D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.AssemblyInfo.cs
-D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csproj.CoreCompileInputs.cache
-D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.MvcApplicationPartsAssemblyInfo.cache
 D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.RazorTargetAssemblyInfo.cache
 D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csproj.CopyComplete
 D:\.NET core Exp\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.BackendApi.StaticWebAssets.Manifest.cache
